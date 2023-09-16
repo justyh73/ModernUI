@@ -1,0 +1,10 @@
+D:\MyWork\CSharp3\MultiColoredModernUI\MultiColoredModernUI\bin\Debug\MultiColoredModernUI.exe.config
+D:\MyWork\CSharp3\MultiColoredModernUI\MultiColoredModernUI\bin\Debug\MultiColoredModernUI.exe
+D:\MyWork\CSharp3\MultiColoredModernUI\MultiColoredModernUI\bin\Debug\MultiColoredModernUI.pdb
+D:\MyWork\CSharp3\MultiColoredModernUI\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+D:\MyWork\CSharp3\MultiColoredModernUI\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+D:\MyWork\CSharp3\MultiColoredModernUI\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+D:\MyWork\CSharp3\MultiColoredModernUI\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+D:\MyWork\CSharp3\MultiColoredModernUI\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+D:\MyWork\CSharp3\MultiColoredModernUI\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.exe
+D:\MyWork\CSharp3\MultiColoredModernUI\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.pdb
